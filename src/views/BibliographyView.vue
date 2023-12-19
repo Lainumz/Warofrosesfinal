@@ -36,12 +36,13 @@
     </ul>
     <br>
     <p class="youtube">More on the resemblance of “The wars of roses” and the TV show “Game of Thrones”:
-      TED-Ed [@TEDEd]. (2015, mayo 11). The wars that inspired Game of Thrones - Alex Gendler. Youtube.</p>
-      <div class="video-container">
-    <div class="video-wrapper">
-      <a class="youtuf larger-link" href="https://www.youtube.com/watch?v=VjO55pKuBo4" target="_blank">https://www.youtube.com/watch?v=VjO55pKuBo4</a>
-    </div>
+  TED-Ed [@TEDEd]. (2015, mayo 11). The wars that inspired Game of Thrones - Alex Gendler. Youtube.</p>
+<div class="video-container" style="margin-bottom: 50px;">
+  <div class="video-wrapper">
+    <a class="youtuf larger-link" href="https://www.youtube.com/watch?v=VjO55pKuBo4" target="_blank">https://www.youtube.com/watch?v=VjO55pKuBo4</a>
   </div>
+</div>
+
   </div>
 </template>
 

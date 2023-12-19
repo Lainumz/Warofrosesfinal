@@ -11,18 +11,19 @@
     </header>
 
     <div class="content-wrapper">
-      <div class="index-section">
-        <h2 class="body">Body</h2>
-        <ul>
-          <li><a href="#antecedents">Causes & Antecedents</a></li>
-          <li><a href="#yorks-revolt">York’s Revolt (1455 - 1460)</a></li>
-          <li><a href="#ascension">Ascension and reign of the Yorkist Edward IV (1461 - 1483)</a></li>
-          <li><a href="#richard">Richard III reign and defeat by Lancastrians (1483 - 1485)</a></li>
-          <li><a href="#aftermath">Aftermath</a></li>
-          <li><a href="#conclusion">Conclusion</a></li>
-          <!-- Otros enlaces -->
-        </ul>
-      </div>
+  <div class="index-section" style="text-align: justify;">
+    <h2 class="body">Body</h2>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#antecedents">Causes & Antecedents</a></li>
+      <li><a href="#yorks-revolt">York’s Revolt (1455 - 1460)</a></li>
+      <li><a href="#ascension">Ascension and reign of the Yorkist Edward IV (1461 - 1483)</a></li>
+      <li><a href="#richard">Richard III reign and defeat by Lancastrians (1483 - 1485)</a></li>
+      <li><a href="#aftermath">Aftermath</a></li>
+      <li><a href="#conclusion">Conclusion</a></li>
+      <!-- Otros enlaces -->
+    </ul>
+  </div>
 
       <div class="section-content">
         <section id="introduction" class="scroll-section">
